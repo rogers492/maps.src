@@ -1,0 +1,160 @@
+flag 252,20,1,202,25
+flag 3,182,4,29,179
+flag 118,3,4,121,22
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "Trucks"
+ ID=type1.kho-ki HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=63 Crew=2 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Inf"
+ ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=11 
+ ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=11 
+ ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=11 
+ ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=11 
+ ID=rsmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=12 
+ ID=rsmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=12 
+ ID=rsmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=12 
+ ID=rsmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=12 
+ ID=rmedic HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=13 
+ ID=rmedic HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=13 
+ ID=rmedic HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=13 
+ ID=rmedic HP=100 Ammo=100 Expa=0 Morale=50 Lives=5 Grp=13 
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

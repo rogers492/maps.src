@@ -1,0 +1,9 @@
+ ID=m4a3e8 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=5 U=688 V=784 Dir=0 Owner=0 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=bear HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=696 V=520 Dir=0 Owner=0 
+ ID=cow HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=776 V=520 Dir=0 Owner=0 
+ ID=sheep HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=872 V=760 Dir=0 Owner=0 

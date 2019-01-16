@@ -1,0 +1,219 @@
+flag 28,124,13,26,125
+flag 114,124,6,-1,-1
+flag 124,93,8,-1,-1
+flag 9,40,4,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "crew"
+ ID=maultier HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=70 Crew=1 In=6 
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=70
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+ ID=maultier HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=70 Crew=1 In=6 
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=70
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0
+end
+support "exp_infantry"
+ ID=gats HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=gats HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=panzerfaust HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=panzerfaust HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dsmguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=cmedic HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=cmedic HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+ ID=dguner HP=100 Ammo=100 Expa=99 Morale=99 Lives=0 Grp=71 
+end
+support "tigers"
+ ID=tiger HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72 Crew=5 
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+ ID=tiger HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72 Crew=5 
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+ ID=tiger HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72 Crew=5 
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72
+ ID=koenigstiger HP=100 Ammo=100 Expa=22 Morale=50 Lives=0 Grp=72 Crew=5 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

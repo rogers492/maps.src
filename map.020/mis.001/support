@@ -1,0 +1,206 @@
+flag 98,3,8,-1,-1
+flag 4,3,10,-1,-1
+flag 30,124,8,-1,-1
+flag 116,124,8,-1,-1
+flag 81,36,4,80,31
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "howtizer"
+ ID=sdkfz.11 HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=60 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=60
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=60
+ ID=kanone.18 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=70 In=2 
+  ID=dofficer HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=70
+  ID=dofficer HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=70
+ ID=maultier HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=70 Crew=1 In=7 
+  ID=dofficer HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ammo.box HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=70
+end
+support "The Cat"
+ ID=panther HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=71 Crew=5 
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=71
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=71
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=71
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=71
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=71
+end
+support "Elite_Infantry"
+ ID=maultier HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72 Crew=1 In=9 
+  ID=dofficer HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=dguner HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=dguner HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=dguner HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=dguner HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=dguner HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=dguner HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=gats HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=gats HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=72
+end
+support "pak-40 artillery"
+ ID=maultier HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=73 Crew=1 In=8 
+  ID=dofficer HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=dguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=dguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=dguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=gats HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=dsmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=dsmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=panzerfaust HP=100 Ammo=25 Expa=0 Morale=40 Lives=0 Grp=73
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=73
+ ID=pak40 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=73 In=2 
+  ID=dguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=73
+  ID=dguner HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=73
+end
+support "pak-40 2"
+ ID=pak40 HP=100 Ammo=100 Expa=55 Morale=55 Lives=0 Grp=74 In=2 
+  ID=dguner HP=100 Ammo=100 Expa=55 Morale=55 Lives=0 Grp=74
+  ID=dguner HP=100 Ammo=100 Expa=55 Morale=55 Lives=0 Grp=74
+ ID=maultier HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=74 Crew=1 In=8 
+  ID=dofficer HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dguner HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dguner HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dguner HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dsmguner HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dsmguner HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dguner HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dsmguner HP=100 Ammo=100 Expa=33 Morale=50 Lives=0 Grp=74
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=74
+end
+support "supply"
+ ID=sdkfz.11 HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=60 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=60
+  ID=dtankist HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=60
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

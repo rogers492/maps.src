@@ -1,0 +1,265 @@
+Player 0
+ name="Player"
+ team=0
+ nation=0
+ color=0 252 80
+ plane bomber
+  ID=ju-87
+  Number=3
+  Bombs=6
+  Reload=30
+ plane spy
+  ID=fw-189
+  Number=2
+  Bombs=4
+  Reload=30
+ plane transport
+  ID=li-2
+  Number=1
+  Bombs=1
+  Reload=60
+ plane boxer
+  ID=b_li-2
+  Number=0
+  Bombs=1
+  Reload=120
+ plane interceptor
+  ID=bf-109
+  Number=5
+  Bombs=5
+  Reload=30
+ descent 0
+  group=1
+  expa=15
+  ID 0=gats
+  number 0=2
+  ID 1=8cm.mortar
+  number 1=4
+  ID 2=dsmguner
+  number 2=10
+  ID 3=dguner
+  number 3=4
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 1
+ name="Enemy"
+ team=1
+ nation=4
+ color=248 0 0
+ plane bomber
+  ID=pe-2
+  Number=5
+  Bombs=5
+  Reload=0
+ plane spy
+  ID=i-153
+  Number=2
+  Bombs=2
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=il-2
+  Number=3
+  Bombs=3
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=6
+Player 2
+ name="Ally"
+ team=2
+ nation=0
+ color=248 252 0
+ plane bomber
+  ID=b-17c
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=audax
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 3
+ name="Neutral"
+ team=3
+ nation=0
+ color=0 0 248
+ plane bomber
+  ID=b-17c
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=audax
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 4
+ name="Enemy"
+ team=1
+ nation=4
+ color=0 252 248
+ plane bomber
+  ID=pe-2
+  Number=5
+  Bombs=5
+  Reload=0
+ plane spy
+  ID=i-153
+  Number=2
+  Bombs=2
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=il-2
+  Number=3
+  Bombs=3
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=4

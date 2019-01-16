@@ -1,0 +1,173 @@
+flag 3,60,1,12,62
+flag 64,3,1,66,13
+flag 56,124,1,56,115
+flag 50,124,1,45,105
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "Allies"
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+ ID=aguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=22 
+end
+support "Timer-check"
+ ID=dingo.jeep HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=1 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Gun-tows"
+ ID=sdkfz.11t HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=60 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.11t HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=60 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.11t HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=60 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "AT-75mm"
+ ID=pak40 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=31 In=2 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Howitzer-105mm"
+ ID=feldhaubitze.18 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=31 In=2 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Long-Range-Artillery-150mm"
+ ID=kanone.18 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=31 In=2 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Mountain-Gun-75mm"
+ ID=75mount HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=31 In=2 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

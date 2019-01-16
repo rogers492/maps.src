@@ -1,0 +1,6 @@
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=728 V=648 Dir=0 Owner=0 
+ ID=matilda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=4 U=688 V=656 Dir=0 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1

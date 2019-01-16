@@ -1,0 +1,42 @@
+ ID=dsmguner HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=99 U=1160 V=5864 Dir=4 Owner=1 
+ ID=dsmguner HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=99 U=1160 V=5816 Dir=4 Owner=1 
+ ID=dmg42_team HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=99 U=2744 V=4088 Dir=0 Owner=1 
+ ID=dmg42_team HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=99 U=1896 V=4696 Dir=0 Owner=1 
+ ID=tiz-am-600 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=6000 V=4880 Dir=0 Owner=0 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=tiz-am-600 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=6000 V=4848 Dir=0 Owner=0 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=tiz-am-600 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=6000 V=4816 Dir=0 Owner=0 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=tiz-am-600 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=6000 V=4784 Dir=0 Owner=0 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=rguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5896 V=4712 Dir=0 Owner=0 
+ ID=rmortar HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5896 V=4696 Dir=0 Owner=0 
+ ID=rsmguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5896 V=4680 Dir=0 Owner=0 
+ ID=rsergeant HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5896 V=4664 Dir=0 Owner=0 
+ ID=rofficer HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5896 V=4648 Dir=0 Owner=0 
+ ID=rgeneral HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5896 V=4632 Dir=0 Owner=0 
+ ID=rnk HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5928 V=4712 Dir=0 Owner=0 
+ ID=nk HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5928 V=4680 Dir=0 Owner=0 
+ ID=rsnipere HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5960 V=4712 Dir=0 Owner=0 
+ ID=rguards_serg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5928 V=4664 Dir=0 Owner=0 
+ ID=rguards_offi HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5928 V=4648 Dir=0 Owner=0 
+ ID=rgeneralb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5928 V=4632 Dir=0 Owner=0 
+ ID=sniper HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5992 V=4712 Dir=0 Owner=0 
+ ID=snipere HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5992 V=4696 Dir=0 Owner=0 
+ ID=commando HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5992 V=4680 Dir=0 Owner=0 
+ ID=rofficer HP=100 Ammo=100 Expa=25 Morale=50 Lives=0 Grp=0 U=5912 V=4888 Dir=0 Owner=0 
+ ID=rofficer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=0 U=5912 V=4872 Dir=0 Owner=0 
+ ID=rofficer HP=100 Ammo=100 Expa=75 Morale=50 Lives=0 Grp=0 U=5912 V=4856 Dir=0 Owner=0 
+ ID=rofficer HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=0 U=5912 V=4840 Dir=0 Owner=0 
+ ID=zis-5 HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=0 Crew=2 U=5968 V=4592 Dir=0 Owner=0 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=zis-5 HP=100 Ammo=100 Expa=100 Morale=50 Lives=0 Grp=0 Crew=2 U=5968 V=4560 Dir=0 Owner=0 
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=rtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dguner HP=100 Ammo=100 Expa=10 Morale=50 Lives=0 Grp=99 U=872 V=5704 Dir=0 Owner=1 

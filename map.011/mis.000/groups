@@ -1,0 +1,400 @@
+Group 0
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 1
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 2
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 3
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 4
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 5
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 6
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 7
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 8
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 9
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 10
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 11
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 12
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 13
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 14
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 15
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 16
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 17
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 18
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 19
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 20
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 21
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 22
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 23
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 24
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 25
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 26
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 27
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 28
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 29
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 30
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 31
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 32
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 33
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 34
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 35
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 36
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 37
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 38
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 39
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 40
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 41
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 42
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 43
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 44
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 45
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 46
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 47
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 48
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 49
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 50
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 51
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 52
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 53
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 54
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 55
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 56
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 57
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 58
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 59
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 60
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 61
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 62
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 63
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 64
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 65
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 66
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 67
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 68
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 69
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 70
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 71
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 72
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 73
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 74
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 75
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 76
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 77
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 78
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 79
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 80
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 81
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 82
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 83
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 84
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 85
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 86
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 87
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 88
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 89
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 90
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 91
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 92
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 93
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 94
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 95
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 96
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 97
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 98
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 99
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50

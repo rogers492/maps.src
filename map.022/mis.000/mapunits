@@ -1,0 +1,203 @@
+ ID=panzer3_f HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=82 Crew=5 U=3536 V=3632 Dir=15 Owner=1 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=bedford HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=1872 V=1968 Dir=0 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1832 V=1992 Dir=0 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1832 V=2008 Dir=0 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1832 V=2024 Dir=0 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1832 V=2040 Dir=0 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1832 V=2056 Dir=0 Owner=0 
+ ID=eofficer HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1896 V=2040 Dir=0 Owner=0 
+ ID=esergeant HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1880 V=2040 Dir=0 Owner=0 
+ ID=bsmg_at HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1864 V=2024 Dir=0 Owner=0 
+ ID=bhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1864 V=2040 Dir=0 Owner=0 
+ ID=lrdg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1776 V=1936 Dir=0 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=lrdg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1776 V=1968 Dir=0 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=lrdg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1776 V=2000 Dir=0 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=breda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 In=1 U=3480 V=3704 Dir=0 Owner=1 
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=breda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 In=1 U=3800 V=3320 Dir=0 Owner=1 
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=breda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 In=1 U=3720 V=3528 Dir=0 Owner=1 
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=breda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 In=1 U=3640 V=3416 Dir=0 Owner=1 
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=itinf HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3416 V=3784 Dir=0 Owner=1 
+ ID=itinf HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3432 V=3656 Dir=0 Owner=1 
+ ID=itinf HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3448 V=3416 Dir=0 Owner=1 
+ ID=itinf HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3576 V=3320 Dir=0 Owner=1 
+ ID=itinf HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3288 Dir=0 Owner=1 
+ ID=itinf HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3512 V=3896 Dir=0 Owner=1 
+ ID=dflamer1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3496 V=3752 Dir=0 Owner=1 
+ ID=dflamer1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3512 V=3592 Dir=0 Owner=1 
+ ID=dflamer1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3640 V=3624 Dir=0 Owner=1 
+ ID=dflamer1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3672 V=3736 Dir=0 Owner=1 
+ ID=dflamer1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3656 V=3496 Dir=0 Owner=1 
+ ID=dflamer1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3816 V=3368 Dir=0 Owner=1 
+ ID=dflamer1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3880 V=3480 Dir=0 Owner=1 
+ ID=jhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3448 V=3848 Dir=0 Owner=1 
+ ID=jhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3704 V=3672 Dir=0 Owner=1 
+ ID=jhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3688 V=3544 Dir=0 Owner=1 
+ ID=jhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3688 V=3480 Dir=0 Owner=1 
+ ID=jhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3864 V=3352 Dir=0 Owner=1 
+ ID=jhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3800 V=3272 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3560 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3544 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3528 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3512 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3496 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3480 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3464 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3752 V=3576 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3736 V=3560 Dir=0 Owner=1 
+ ID=itber HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3720 V=3464 Dir=0 Owner=1 
+ ID=itoff HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3608 V=3576 Dir=0 Owner=1 
+ ID=jgeneralb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3816 V=3336 Dir=0 Owner=1 
+ ID=jgeneralb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=81 U=3464 V=3800 Dir=0 Owner=1 
+ ID=77fieldgun HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 In=2 U=3472 V=3856 Dir=0 Owner=1 
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=77fieldgun HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=80 In=2 U=3856 V=3312 Dir=0 Owner=1 
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itinf HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=2595.kha-go HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=82 Crew=4 U=3824 V=3536 Dir=0 Owner=1 
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=l6.40 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=82 Crew=2 U=3568 V=3792 Dir=15 Owner=1 
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=l6.40 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=82 Crew=2 U=3632 V=3792 Dir=15 Owner=1 
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m15.42 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=82 Crew=4 U=3824 V=3568 Dir=15 Owner=1 
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m15.42 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=82 Crew=4 U=3888 V=3568 Dir=15 Owner=1 
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=itankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=daimler.mkl HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=1872 V=1808 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=humber.agit HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1872 V=1776 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=universal.mkll HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=1904 V=1712 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=universal.mkll HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=1936 V=1680 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=universal.mkll HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 U=1904 V=1648 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=lrdg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=2000 V=1904 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=lrdg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=2000 V=1872 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=lrdg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=2000 V=1840 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=2pdr HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 In=2 U=1712 V=1744 Dir=15 Owner=0 
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=6pdr HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 In=2 U=1744 V=1680 Dir=15 Owner=0 
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=17p HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 In=2 U=1744 V=1616 Dir=15 Owner=0 
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=25p HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 In=2 U=1744 V=1552 Dir=15 Owner=0 
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=5.5_howitzer HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 In=2 U=1776 V=1488 Dir=15 Owner=0 
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=eguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=2595.ho-gi HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1872 V=2192 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=2595.ho-gi HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1872 V=2160 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=crusader HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1712 V=2096 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=crusader HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1744 V=2128 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=matilda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=4 U=1552 V=1936 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=matilda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=4 U=1552 V=1904 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=matilda HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=4 U=1552 V=1872 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=churchcroc HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=5 U=1648 V=1808 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=churchcroc HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=5 U=1648 V=1776 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=churchcroc HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=5 U=1648 V=1744 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=2595.ho-gi HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=3 U=1872 V=2224 Dir=15 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=eofficer HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2072 V=1720 Dir=7 Owner=0 
+ ID=esergeant HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2056 V=1720 Dir=7 Owner=0 
+ ID=bhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2040 V=1720 Dir=7 Owner=0 
+ ID=bhmg HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2024 V=1720 Dir=7 Owner=0 
+ ID=bsmg_at HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2008 V=1720 Dir=7 Owner=0 
+ ID=bsmg_at HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1992 V=1720 Dir=7 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1992 V=1752 Dir=7 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2008 V=1752 Dir=7 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2024 V=1752 Dir=7 Owner=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2040 V=1752 Dir=7 Owner=0 
